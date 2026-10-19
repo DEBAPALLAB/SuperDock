@@ -7,8 +7,8 @@ body:
   - type: input
     id: version
     attributes:
-      label: UniDock version
-      description: Find it under right-click → About UniDock.
+      label: SuperDock version
+      description: Find it under right-click → About SuperDock.
     validations:
       required: true
   - type: textarea
