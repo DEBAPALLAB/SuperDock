@@ -1,0 +1,35 @@
+name: Bug report
+description: Help make the beta more reliable.
+body:
+  - type: markdown
+    attributes:
+      value: Review screenshots for personal notes, notifications, media and file paths before attaching them.
+  - type: input
+    id: version
+    attributes:
+      label: UniDock version
+      description: Find it under right-click → About UniDock.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: What happened and how can we reproduce it?
+      description: Include expected behavior and the smallest set of steps.
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version and CPU architecture
+    validations:
+      required: true
+  - type: textarea
+    id: setup
+    attributes:
+      label: Display and app setup
+      description: Monitor count, scaling/DPI, graphics hardware, media app (if relevant), and installer or ZIP.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else?

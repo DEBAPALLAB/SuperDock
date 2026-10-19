@@ -1,0 +1,9 @@
+*
+!.gitignore
+!README.md
+!PRIVACY.md
+!assets/
+!assets/**
+!.github/
+!.github/ISSUE_TEMPLATE/
+!.github/ISSUE_TEMPLATE/**
