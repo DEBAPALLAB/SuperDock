@@ -1,7 +1,12 @@
 # SuperDock privacy
 
-This build has no accounts, analytics, advertising SDK, crash uploader, update
-checker, or app-managed background network requests.
+SuperDock has no accounts, analytics, advertising SDK, or crash uploader. It
+checks the official public GitHub Releases feed once per day for a newer version.
+You can also check manually from the tray menu. This request contains no
+personal data or device identifier. SuperDock downloads nothing until you choose
+an update; it then downloads the official installer and verifies its SHA-256
+checksum before offering to restart and install it. GitHub may receive your IP
+address as part of normal HTTPS traffic. No usage telemetry is sent.
 
 Notes, reminders, preferences, and a local startup/graphics diagnostic log stay
 on this PC. The app reads Windows media-session metadata and artwork to display

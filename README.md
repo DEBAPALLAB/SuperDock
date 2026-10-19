@@ -10,11 +10,11 @@ one glance away, in a notch you can move.
 
 ## Download
 
-[Download SuperDock v1.0.3](https://github.com/DEBAPALLAB/SuperDock/releases/tag/v1.0.3)
+[Download SuperDock v1.0.4](https://github.com/DEBAPALLAB/SuperDock/releases/tag/v1.0.4)
 for Windows 11 x64.
 
-- [Windows installer](https://github.com/DEBAPALLAB/SuperDock/releases/download/v1.0.3/SuperDock-1.0.3-windows-x64-setup.exe)
-- [Portable ZIP](https://github.com/DEBAPALLAB/SuperDock/releases/download/v1.0.3/SuperDock-1.0.3-windows-x64-portable.zip)
+- [Windows installer](https://github.com/DEBAPALLAB/SuperDock/releases/download/v1.0.4/SuperDock-1.0.4-windows-x64-setup.exe)
+- [Portable ZIP](https://github.com/DEBAPALLAB/SuperDock/releases/download/v1.0.4/SuperDock-1.0.4-windows-x64-portable.zip)
 
 Choose the installer for Start menu/uninstall integration, or extract the
 portable ZIP and run **SuperDock.exe**. No compiler, Python, .NET, or account is
@@ -56,7 +56,8 @@ Toggle Liquid glass off in the right-click menu to record the dock.
 Reminders fire while SuperDock is running and catch up when it starts again.
 Music controls depend on the player exposing a Windows media session.
 Complete screen-reader/IME support, broader mixed-DPI hardware validation, and an
-automatic updater are still in progress.
+accessibility review are still in progress. SuperDock checks the official
+GitHub release feed once per day; choose when to download and install an update.
 
 This is an early, unsigned release. Windows may show an unrecognized-publisher
 warning. Clean-machine installation and broader hardware testing are still
