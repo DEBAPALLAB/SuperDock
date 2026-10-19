@@ -10,11 +10,11 @@ one glance away, in a notch you can move.
 
 ## Download
 
-[Download SuperDock v1.0.1](https://github.com/DEBAPALLAB/SuperDock/releases/tag/v1.0.1)
+[Download SuperDock v1.0.2](https://github.com/DEBAPALLAB/SuperDock/releases/tag/v1.0.2)
 for Windows 11 x64.
 
-- [Windows installer](https://github.com/DEBAPALLAB/SuperDock/releases/download/v1.0.1/SuperDock-1.0.1-windows-x64-setup.exe)
-- [Portable ZIP](https://github.com/DEBAPALLAB/SuperDock/releases/download/v1.0.1/SuperDock-1.0.1-windows-x64-portable.zip)
+- [Windows installer](https://github.com/DEBAPALLAB/SuperDock/releases/download/v1.0.2/SuperDock-1.0.2-windows-x64-setup.exe)
+- [Portable ZIP](https://github.com/DEBAPALLAB/SuperDock/releases/download/v1.0.2/SuperDock-1.0.2-windows-x64-portable.zip)
 
 Choose the installer for Start menu/uninstall integration, or extract the
 portable ZIP and run **SuperDock.exe**. No compiler, Python, .NET, or account is
@@ -74,5 +74,6 @@ relevant, and the steps that failed. Review screenshots for private information.
 Want to share it? Link to the
 [official releases](https://github.com/DEBAPALLAB/SuperDock/releases) and use an
 unmodified official package.
+
 
 
